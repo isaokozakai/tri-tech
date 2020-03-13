@@ -1,3 +1,18 @@
+# Credits: 
+Isao Kozakai - Development
+
+Gustavo Rocha Stamm - Development
+
+Nobuyuki Tono - Development
+
+Tatsuya Takarabe - Development
+
+Vladyslav Vekslyer - Development & Design
+
+Yesl Park - Design
+
+Ayako Sayama - Design
+
 # Guidelines:
 - ALL component names must be capitalized.
 - ALL components should be functional.
